@@ -7,7 +7,7 @@ A Streamlit-based web application that scrapes and summarizes news from major ne
 
 ## API Key
 
-You can get an API key from [ScrapeGraph](https://dashboard.scrapegraphai.com).
+You can get an API key from [ScrapeGraph's](https://dashboard.scrapegraphai.com) website.
 
 ## Features
 

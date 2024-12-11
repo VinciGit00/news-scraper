@@ -1,0 +1,2 @@
+scrapegraph_py==1.8.0
+streamlit==1.39.0

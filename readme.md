@@ -1,10 +1,10 @@
 # 🌍 News Website Scraper
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/scrapegraph/scrapegraph-py/main/assets/spider_logo.png" alt="ScrapeGraph AI Spider Logo" width="200"/>
-</p>
-
 A Streamlit-based web application that scrapes and summarizes news from major news websites using the ScrapeGraph AI API.
+
+## 🚀 Live Demo
+[![My Skills](https://skillicons.dev/icons?i=react)](https://news-scraper-gh.streamlit.app)
+
 
 ## Features
 

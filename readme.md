@@ -5,6 +5,9 @@ A Streamlit-based web application that scrapes and summarizes news from major ne
 ## 🚀 Live Demo
 [![My Skills](https://skillicons.dev/icons?i=react)](https://news-scraper-gh.streamlit.app)
 
+## API Key
+
+You can get an API key from [ScrapeGraph](https://dashboard.scrapegraphai.com).
 
 ## Features
 
